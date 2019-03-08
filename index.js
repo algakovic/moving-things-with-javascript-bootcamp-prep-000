@@ -1,5 +1,8 @@
 const app = "I don't do much."
 
+document.getElementById('dodger')
+
+
 function moveDodgerRight(){
 	var rightNumbers = dodger.style.left.replace('px', '')
 	var right = parseInt(rightNumbers, 10)
