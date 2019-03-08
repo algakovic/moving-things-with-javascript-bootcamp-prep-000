@@ -1,4 +1,4 @@
-learnconst expect = require('expect')
+const expect = require('expect')
 
 const fs = require('fs')
 const jsdom = require('mocha-jsdom')
